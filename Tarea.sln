@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea", "Tarea\Tarea.csproj", "{55937B9B-BDBC-416B-86CE-26C1B8ACBA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaDelMes", "DiaDelMes\DiaDelMes.csproj", "{641D741B-9E3B-424D-9FB6-022DA9E995F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulos", "Triangulos\Triangulos.csproj", "{52EFFA58-9DE2-4486-9866-1D98F7BDB51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55937B9B-BDBC-416B-86CE-26C1B8ACBA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55937B9B-BDBC-416B-86CE-26C1B8ACBA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55937B9B-BDBC-416B-86CE-26C1B8ACBA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55937B9B-BDBC-416B-86CE-26C1B8ACBA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641D741B-9E3B-424D-9FB6-022DA9E995F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641D741B-9E3B-424D-9FB6-022DA9E995F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641D741B-9E3B-424D-9FB6-022DA9E995F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641D741B-9E3B-424D-9FB6-022DA9E995F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EFFA58-9DE2-4486-9866-1D98F7BDB51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EFFA58-9DE2-4486-9866-1D98F7BDB51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EFFA58-9DE2-4486-9866-1D98F7BDB51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EFFA58-9DE2-4486-9866-1D98F7BDB51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F2F9014-936A-4F52-87A9-510F2437254B}
+	EndGlobalSection
+EndGlobal
